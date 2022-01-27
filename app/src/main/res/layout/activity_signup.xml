@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".accountScreens.SignupActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="30sp">
+
+        <ImageView
+            android:id="@+id/login_img"
+            android:baselineAligned="false"
+            android:padding="15sp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_width = "100dp"
+            android:layout_height= "100dp"/>
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint=" E-Mail"
+            android:inputType="textEmailAddress"
+            android:padding="10sp"
+            android:textSize="20sp"
+            android:layout_margin="10sp"
+            android:drawableLeft="@drawable/ic_login_email_icon"/>
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint=" Password"
+            android:password="true"
+            android:inputType="textPassword"
+            android:textSize="20sp"
+            app:passwordToggleEnabled="true"
+            android:padding="10sp"
+            android:layout_margin="10sp"
+            android:drawableLeft="@drawable/ic_login_password_icon"/>
+
+        <Button
+            android:id="@+id/btnSign_up"
+            android:layout_width="161dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:backgroundTint="@color/colorPrimary"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="Sign Up"
+            android:textAllCaps="false"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

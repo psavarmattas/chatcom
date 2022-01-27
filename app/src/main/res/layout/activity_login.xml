@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".accountScreens.LoginActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="30sp">
+
+        <ImageView
+            android:id="@+id/login_img"
+            android:baselineAligned="false"
+            android:padding="15sp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_width = "100dp"
+            android:layout_height= "100dp"/>
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint=" E-Mail"
+            android:inputType="textEmailAddress"
+            android:padding="10sp"
+            android:textSize="20sp"
+            android:layout_margin="10sp"
+            android:drawableLeft="@drawable/ic_login_email_icon"/>
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint=" Password"
+            android:inputType="textPassword"
+            android:textSize="20sp"
+            app:passwordToggleEnabled="true"
+            android:padding="10sp"
+            android:layout_margin="10sp"
+            android:drawableLeft="@drawable/ic_login_password_icon"/>
+
+
+        <Button
+            android:id="@+id/btnSign_in"
+            android:layout_width="161dp"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_marginTop="30sp"
+            android:text="Sign In"
+            android:textSize="18sp"
+            android:textAllCaps="false"
+            android:backgroundTint="@color/colorPrimary"/>
+
+        <TextView android:id="@+id/reset_pswd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Forgot Password?"
+            android:layout_marginTop="10sp"
+            android:padding="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OR"
+            android:layout_margin="5sp"
+            android:padding="10sp"/>
+
+        <TextView android:id="@+id/GSignin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign in with Google"
+            android:padding="15sp"/>
+        <Button
+            android:id="@+id/btnSign_up"
+            android:layout_width="161dp"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_marginTop="15sp"
+            android:text="Sign Up"
+            android:textSize="18sp"
+            android:textAllCaps="false"
+            android:backgroundTint="@color/colorPrimary"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
