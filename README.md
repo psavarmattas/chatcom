@@ -16,13 +16,13 @@ For More info view the [CHANGELOGS HERE](https://github.com/psavarmattas/chatcom
 
 ## ScreenShots:
 
-![Splash Screen](https://github.com/psavarmattas/chatcom/blob/main/screenshots/SplashScreenSS.png "Splash Screen")
-![Chat Screen](https://github.com/psavarmattas/chatcom/blob/main/screenshots/ChatScreenSS.png "Chat Screen")
-![Contacts Screen](https://github.com/psavarmattas/chatcom/blob/main/screenshots/ContactsScreenSS.png "Contacts Screen")
-![Settings Screen](https://github.com/psavarmattas/chatcom/blob/main/screenshots/SettingsScreenSS.png "Settings Screen")
-![Profile Screen](https://github.com/psavarmattas/chatcom/blob/main/screenshots/ProfileScreenSS.png "Profile Screen")
-![Login Screen](https://github.com/psavarmattas/chatcom/blob/main/screenshots/LoginScreenSS.png "Login Screen")
-![SignUp Screen](https://github.com/psavarmattas/chatcom/blob/main/screenshots/ContactsScreenSS.png "SignUp Screen")
+<img src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/SplashScreenSS.png" style="height: 200px; width:120px;"/>
+<img src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/ChatScreenSS.png" style="height: 200px; width:120px;"/>
+<img src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/ContactsScreenSS.png" style="height: 200px; width:120px;"/>
+<img src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/SettingsScreenSS.png" style="height: 200px; width:120px;"/>
+<img src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/ProfileScreenSS.png" style="height: 200px; width:120px;"/>
+<img src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/LoginScreenSS.png" style="height: 200px; width:120px;"/>
+<img src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/ContactsScreenSS.png" style="height: 200px; width:120px;"/>
 
 ## Contributors:
 
