@@ -18,7 +18,7 @@ For More info view the [CHANGELOGS HERE](https://github.com/psavarmattas/chatcom
 
 <img width="250"  src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/SplashScreenSS.png"> <img width="250" src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/ChatScreenSS.png"> <img width="250"  src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/ContactsScreenSS.png"> 
 <img width="250"  src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/SettingsScreenSS.png"> <img width="250"  src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/ProfileScreenSS.png"> <img width="250"  src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/LoginScreenSS.png"> 
-<img width="250"  src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/ContactsScreenSS.png">
+<img width="250"  src="https://github.com/psavarmattas/chatcom/blob/main/screenshots/SignUpScreenSS.png">
 
 ## Contributors:
 
