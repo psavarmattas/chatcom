@@ -9,6 +9,7 @@
 8. Dark/Light Mode added.
 9. Added Profile check in settings.
 10. Code cleanup.
+11. Enabled R8 compiler & Proguard Rules for added security.
 
 ## 0.0.1
 1. Three Tabbed view

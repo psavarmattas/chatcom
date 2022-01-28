@@ -11,6 +11,7 @@ This app provides End-To-End Encryption so that the word doesn't leak out.
 6. Dark/Light Mode added.
 7. Profile check in settings.
 8. Three Tabbed view
+9. Enabled R8 compiler & Proguard Rules for added security.
 
 For More info view the [CHANGELOGS HERE](https://github.com/psavarmattas/chatcom/blob/main/CHANGELOG.MD)
 
